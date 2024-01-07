@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StudentManagement</string>
+    <string-array name="country">
+        <item>Hà Nội</item>
+        <item>TP.Hồ Chí Minh</item>
+        <item>Hải Phòng</item>
+        <item>Hưng Yên</item>
+        <item>Hà Tĩnh</item>
+        <item>Hải Dương</item>
+        <item>Nhiều lắm</item>
+    </string-array>
+</resources>
